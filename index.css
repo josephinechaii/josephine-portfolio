@@ -1,0 +1,103 @@
+.container {
+  margin-bottom: 10%;
+}
+
+.row p {
+  text-align: center;
+}
+ .button p {
+  text-align: center;
+}
+title {
+  font-family:serif;
+}
+p {
+	word spacing: 10 px;
+}
+.container img {
+  height: 220px;
+  width: 300px;
+}
+tr img {
+  height: 220px;
+  width: 300px;
+  position: static;
+  style: float: right;
+  height: 15em;
+  margin-right: 1%;
+  margin-bottom: 0.5em;
+}
+
+body aside h2 {
+text-align: center-left;
+ }
+body aside img {
+	 height: 215px;
+  width: 215px;
+  margin-left: 30px;
+}
+ul {
+	list-style-type: none;
+	position: static;
+	margin: 10px;
+	text-align: center;
+}
+
+li {
+	display: inline;
+	font-family: Futura, Tahoma, sans-serif;
+	color: white;
+	padding: 3px;
+	border-radius: 5px 5px;
+	background-color: purple;
+	text-align: center;
+}
+
+header {
+	text-align: center;
+	font-family: serif;
+	color: black;
+	font-size: 40px;
+}
+
+aside {
+  display: block;
+  width: 90%;
+}
+
+aside p {
+  text-align: left !important;
+}
+
+.about-me {
+  position:absolute;
+}
+
+
+.square {
+  margin-left: 35%;
+  margin-top: 5%;
+}
+
+.images {
+  float: right;
+  height: 18em;
+  width:25em;
+  margin-top:5em;
+  margin-left:10%;
+}
+
+.text {
+  width: 20em;
+  margin-top:8em;
+  margin-left:10%;
+  float:right;
+}
+
+h3 {
+  font-family: serif;
+  font-size: 20px;
+  text-align: center;
+  background-color: white;
+  margin-left: 54px;
+}

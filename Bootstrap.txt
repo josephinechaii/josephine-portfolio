@@ -1,0 +1,19 @@
+Learn about Bootstrap - it's easy.
+
+There are three things you must use
+
+<div class="container">
+<div class="row">
+<div class"col-.......">
+
+This makes the website responsive
+
+The col-md-4, col-sm-12, col-xs-12 is telling it what to do with the element when it's being shown on a desktop, laptop, or mobile phone
+
+Look at my portfolio and go to the photography projects - go to Lavender Fields
+It's three images on each row, right? That is because I used col-md-4
+
+The greatest is 12 so if I was three on each row it has to be col-md-4
+But when it's viewed on a mobile phone, it is one per row that is because I used col-xs-12 - that means the element (image) takes up the whole row
+
+Visit this website to understand more: https://www.w3schools.com/bootstrap/bootstrap_grid_examples.asp
